@@ -1,0 +1,11 @@
+gradio
+fpdf2
+google-generativeai
+scikit-learn
+torch
+torchvision
+opencv-python-headless
+matplotlib
+numpy
+pillow
+joblib
