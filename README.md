@@ -44,8 +44,10 @@ Wary is a multi-agent health triage prototype built for the Pak Angels GenAI & A
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1hN9hPrZRxvbvVBp9uQU2xCWI99vnqXfg/view?usp=sharing">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F8B6D,100:0F2E2A&height=150&section=header&text=Watch%20the%20Wary%20demo%20video&fontSize=36&fontColor=ffffff&desc=Click%20to%20open%20the%20video%20on%20Google%20Drive&descSize=16&descAlignY=72" alt="Watch the Wary demo video" width="90%">
+    <img src="assets/Thumbwary.jpg" alt="Watch the Wary demo video" width="90%">
   </a>
+  <br>
+  <sub>Click the image to watch the demo video (opens Google Drive).</sub>
 </p>
 
 ## At a glance
@@ -201,7 +203,7 @@ wary/
   wary_agents.py     Intake, Specialist, Safety Auditor, Report, self-test
   wary_app.py        Gradio interface
   PRD.pdf            product requirements document
-  assets/       Thumbway.png and 1.png to 10.png
+  assets/       Thumbwary.jpg and 1.png to 10.png
 ```
 </details>
 
