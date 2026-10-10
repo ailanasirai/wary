@@ -154,9 +154,8 @@ flowchart LR
   </tr>
 </table>
 
-<details>
-<summary><b>Evidence modules</b> (chest X-ray, brain MRI, symptom classifier)</summary>
-<br>
+### Evidence modules
+
 <table>
   <tr>
     <td width="50%"><img src="assets/5.png" alt="Chest X-ray with Grad-CAM"><br><sub><b>5.</b> Chest X-ray module with a Grad-CAM overlay.</sub></td>
@@ -167,11 +166,9 @@ flowchart LR
     <td width="50%"></td>
   </tr>
 </table>
-</details>
 
-<details>
-<summary><b>Safety Lab and report</b></summary>
-<br>
+### Safety Lab and report
+
 <table>
   <tr>
     <td width="50%"><img src="assets/8.png" alt="Safety Lab"><br><sub><b>8.</b> Safety Lab: abstention threshold and red-flag self-test.</sub></td>
@@ -182,7 +179,6 @@ flowchart LR
     <td width="50%"></td>
   </tr>
 </table>
-</details>
 
 ## Run it
 
